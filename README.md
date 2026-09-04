@@ -397,7 +397,6 @@ Possible future features:
 * 💸 Money transfer between accounts
 * 💰 Daily withdrawal limits
 * 🏧 ATM cash availability
-* 🛡️ Better error handling using `try-except`
 * 🧩 Convert the project into functions
 * 🏗️ Implement Object-Oriented Programming (OOP)
   
