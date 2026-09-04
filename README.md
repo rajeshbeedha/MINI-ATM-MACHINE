@@ -400,4 +400,4 @@ Possible future features:
 * 🛡️ Better error handling using `try-except`
 * 🧩 Convert the project into functions
 * 🏗️ Implement Object-Oriented Programming (OOP)
-* 🗄️ Connect the project to MySQL
+  
